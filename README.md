@@ -55,5 +55,5 @@ Supports hex codes with:
 ## 📝 Related Article
 Curious about the journey and how this works under the hood?
 
-👉 Read the Medium article here: 
+👉 Read the Medium article here: https://kevinabram1000.medium.com/how-to-build-and-share-your-own-swift-library-with-swift-package-manager-1905fcc4716b
 
