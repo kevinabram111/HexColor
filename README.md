@@ -54,5 +54,6 @@ Supports hex codes with:
 
 ## 📝 Related Article
 Curious about the journey and how this works under the hood?
+
 👉 Read the Medium article here: 
 
